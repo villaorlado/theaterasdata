@@ -1,0 +1,6 @@
+matplotlib
+pandas
+pymannkendall==1.4.3
+seaborn
+numpy
+pysal==4.12.1
