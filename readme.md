@@ -2,6 +2,13 @@
 
 This repository contains code and data for the projects described in my book _Theater as Data_(University of Michigan Press, 2021), which is available [here](https://press.umich.edu/Books/T/Theater-as-Data2) as Open Access. The book explains how and when to use computational methods for studying the performing arts (and other forms of intangible cultural heritage). 
 
+## Repository structure
+
+* `data/`
+	* All the necessary data for running the code, mostly in .csv format, organized per chapter. `ch_7` contains a .zip for Google Colab, which is not required for runnning the analysis locally.
+* `code/`
+	* Jupyter Nobtebooks for running the statistical analyses and re-creating the visualizations described in the book.
+
 ## 2024 Update
 
 The code here is almost identical to that which is available from the publisher's website, with some minor adaptations for easier work with the most recent version of certain libraries.
