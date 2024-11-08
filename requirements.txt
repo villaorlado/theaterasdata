@@ -3,4 +3,4 @@ pandas
 pymannkendall==1.4.3
 seaborn
 numpy
-pysal==4.12.1
+pysal==24.07
