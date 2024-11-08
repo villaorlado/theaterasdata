@@ -12,6 +12,8 @@ You can clone this repository to run this code locally. You can installed the re
 
 `pip install -r requirements.txt`
 
+## Running on Google Colab
+
 Alternatively, you can also run the four Notebooks directly on Google colab:
 - [Words](https://colab.research.google.com/drive/1Y3yQwFKqjQemTeelmMsJiwgc1qDzoG6v?usp=sharing) (Chapter 4)
 - [Networks](https://colab.research.google.com/drive/11zpXNz7ooWBfYCvcex8NKQcce8I8NnGh?usp=sharing) (Chapter 5)
@@ -24,3 +26,6 @@ Alternatively, you can also run the four Notebooks directly on Google colab:
 
 This interactive Jupyter Notebooks assume basic familiarity with Python and Jupyter. For users not familiar with Python, I recommend Allen Downey's [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/) and Melanie Walsh's [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html)
 
+## Using this code
+
+If you use this code in your teaching or research, please let me know! You can find my contact details at https://miguelescobar.com. Please also open an issue or get in touch if you find any errors.
