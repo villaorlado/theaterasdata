@@ -20,11 +20,6 @@ Alternatively, you can also run the four Notebooks directly on Google colab:
 - [Motion](https://colab.research.google.com/drive/1v_Xe3td6L0WaBVdeBW0M4qlE176RJfuk?usp=sharing)(Chapter 6)
 - [Location](https://colab.research.google.com/drive/1anY9UGVpc3C2riqhXfXa_tDL5LX6uQ_r?usp=sharing)(Chapter 7)
 
-- <a href="https://colab.research.google.com/drive/1Y3yQwFKqjQemTeelmMsJiwgc1qDzoG6v?usp=sharing" target="_blank">Words</a> (Chapter 4)
-- <a href="https://colab.research.google.com/drive/11zpXNz7ooWBfYCvcex8NKQcce8I8NnGh?usp=sharing" target="_blank">Networks</a> (Chapter 5)
-- <a href="https://colab.research.google.com/drive/1v_Xe3td6L0WaBVdeBW0M4qlE176RJfuk?usp=sharing" target="_blank">Motion</a> (Chapter 6)
-- <a href="https://colab.research.google.com/drive/1anY9UGVpc3C2riqhXfXa_tDL5LX6uQ_r?usp=sharing" target="_blank">Location</a> (Chapter 7)
-
 ***Note**: the code in Colab has been adapted slightly to load the data directly from this GitHub repo, rather than having to upload it directly.
 
 ## Notes on Python and Jupyter
