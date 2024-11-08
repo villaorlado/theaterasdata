@@ -15,7 +15,7 @@ You can clone this repository to run this code locally. You can installed the re
 ## Running on Google Colab
 
 Alternatively, you can also run the four Notebooks directly on Google colab:
-- [Words](https://colab.research.google.com/drive/1Y3yQwFKqjQemTeelmMsJiwgc1qDzoG6v?usp=sharing) (Chapter 4)
+- [Words](https://colab.research.google.com/drive/1Y3yQwFKqjQemTeelmMsJiwgc1qDzoG6v?usp=sharing) (Chapter 4){:target="_blank"}
 - [Networks](https://colab.research.google.com/drive/11zpXNz7ooWBfYCvcex8NKQcce8I8NnGh?usp=sharing) (Chapter 5)
 - [Motion](https://colab.research.google.com/drive/1v_Xe3td6L0WaBVdeBW0M4qlE176RJfuk?usp=sharing)(Chapter 6)
 - [Location](https://colab.research.google.com/drive/1anY9UGVpc3C2riqhXfXa_tDL5LX6uQ_r?usp=sharing)(Chapter 7)
